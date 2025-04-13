@@ -1,0 +1,14 @@
+.align-center{
+    align-content: center;
+}
+
+body{
+    background-color: rgb(36, 24, 24);
+    color: #eee;
+}
+h2{
+    color: rgb(47, 0, 255);
+}
+p{
+    color: rgb(47, 121, 102);
+}
